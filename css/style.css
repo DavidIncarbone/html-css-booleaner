@@ -16,6 +16,34 @@
     font-style: normal;
 }
 
+/* Header */
+
+header {
+    height: 50px;
+    background-color: #4EA0FF;
+    background-image: url(../img/pattern.png);
+    background-size: contain;
+    padding-top: 25px;
+    padding-left: 15px;
+
+
+
+}
+
+
+
+#logo {
+
+    height: 80%;
+    width: 15%;
+    background-image: url(../img/logo.svg);
+    background-size: contain;
+    background-repeat: no-repeat;
+
+}
+
+
+
 /* background and text colors */
 
 .white-text {
