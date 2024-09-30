@@ -2,8 +2,8 @@
 
 * {
 
-    margin: 0;
-    padding: 0;
+    /* margin: 0;
+    padding: 0; */
     box-sizing: border-box;
 
 }
@@ -11,7 +11,7 @@
 /* Google font */
 
 .roboto-thin {
-    font-family: "Roboto", sans-serif;
+    font-family: "Roboto" sans-serif;
     font-weight: 100;
     font-style: normal;
 }
@@ -41,17 +41,19 @@ header {
 
 #images-container {
 
-    width: 80%;
+    width: 500px;
+    height: 200px;
 }
 
 .images {
 
     width: 49%;
+    height: 100%;
 }
 
 #image-right {
 
-    height: 223px;
+    height: 100%;
 }
 
 #caption {
@@ -59,6 +61,8 @@ header {
     font-size: x-small;
     font-style: italic;
 }
+
+/* Article List */
 
 
 
