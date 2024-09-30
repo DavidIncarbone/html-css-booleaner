@@ -3,97 +3,98 @@
 * {
 
     /* margin: 0;
-    padding: 0; */
+    padding: 0; 
     box-sizing: border-box;
 
 }
 
 /* Google font */
 
-.roboto-thin {
-    font-family: "Roboto" sans-serif;
-    font-weight: 100;
-    font-style: normal;
-}
+    .roboto-thin {
+        font-family: "Roboto" sans-serif;
+        font-weight: 100;
+        font-style: normal;
+    }
 
-/* Header */
+    /* Header */
 
-header {
-    height: 50px;
-    background-color: #4EA0FF;
-    background-image: url(../img/pattern.png);
-    background-size: contain;
-    padding-top: 25px;
-    padding-left: 15px;
-}
+    header {
+        height: 50px;
+        background-color: #4EA0FF;
+        background-image: url(../img/pattern.png);
+        background-size: contain;
+        padding-top: 25px;
+        padding-left: 15px;
+    }
 
 
-#logo {
+    #logo {
 
-    height: 80%;
-    width: 15%;
-    background-image: url(../img/logo.svg);
-    background-size: contain;
-    background-repeat: no-repeat;
-}
+        height: 80%;
+        width: 15%;
+        background-image: url(../img/logo.svg);
+        background-size: contain;
+        background-repeat: no-repeat;
+    }
 
-/* article title */
+    /* article title */
 
-#images-container {
+    #images-container {
 
-    width: 500px;
-    height: 200px;
-}
+        width: 500px;
+        height: 200px;
+    }
 
-.images {
+    .images {
 
-    width: 49%;
-    height: 100%;
-}
+        width: 49%;
+        height: 100%;
+    }
 
-#image-right {
+    #image-right {
 
-    height: 100%;
-}
+        height: 100%;
+    }
 
-#caption {
+    #caption {
 
-    font-size: x-small;
-    font-style: italic;
-}
-
-/* Article List */
+        font-size: x-small;
+        font-style: italic;
+    }
 
 
 
 
-/* background and text colors */
 
-.white-text {
+    /* background and text colors */
 
-    color: grey;
-}
+    .blue-text {
 
-.blue-text {
+        color: #20A9E5;
+    }
 
-    color: #20A9E5;
-}
+    .grey-text {
+        color: grey;
+    }
 
-.grey-text {
-    color: #DFDFDF;
-}
+    .highlighted {
 
-.highlighted {
+        background-color: #FFFF00;
+    }
 
-    background-color: #FFFF00;
-}
+    .thead-color {
 
-.thead-color {
-
-    background-color: #20A9E5;
-}
+        background-color: #20A9E5;
+        color: white;
 
 
-.tbody-color {
-    background-color: #B1E5F2;
-}
+
+
+
+
+    }
+
+
+    .tbody-color {
+        background-color: #B1E5F2;
+    }
