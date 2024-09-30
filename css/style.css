@@ -62,11 +62,42 @@
         font-style: italic;
     }
 
+    /* footer */
 
+    #footer-image-up {
+
+        height: 100px;
+        width: 20%;
+        background-image: url(../img/monitor.jpg);
+        background-repeat: no-repeat;
+        background-size: contain;
+        padding-left: 10px;
+        padding-top: 5px;
+    }
+
+    #footer-image-down {
+        height: 100px;
+        width: 20%;
+        background-image: url(../img/graph.jpg);
+        background-repeat: no-repeat;
+        background-size: contain;
+        padding-left: 10px;
+        padding-top: 5px;
+
+    }
 
 
 
     /* background and text colors */
+
+    .white-text {
+
+        height: 20%;
+        color: white;
+        font-size: x-small;
+        font-weight: bold;
+
+    }
 
     .blue-text {
 
@@ -86,11 +117,6 @@
 
         background-color: #20A9E5;
         color: white;
-
-
-
-
-
 
     }
 
