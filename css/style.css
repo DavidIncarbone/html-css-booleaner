@@ -25,11 +25,7 @@ header {
     background-size: contain;
     padding-top: 25px;
     padding-left: 15px;
-
-
-
 }
-
 
 
 #logo {
@@ -39,8 +35,31 @@ header {
     background-image: url(../img/logo.svg);
     background-size: contain;
     background-repeat: no-repeat;
-
 }
+
+/* article title */
+
+#images-container {
+
+    width: 80%;
+}
+
+.images {
+
+    width: 49%;
+}
+
+#image-right {
+
+    height: 223px;
+}
+
+#caption {
+
+    font-size: x-small;
+    font-style: italic;
+}
+
 
 
 
@@ -48,12 +67,12 @@ header {
 
 .white-text {
 
-    color: #FFFFFF;
+    color: grey;
 }
 
 .blue-text {
 
-    color: #DEF2FB;
+    color: #20A9E5;
 }
 
 .grey-text {
