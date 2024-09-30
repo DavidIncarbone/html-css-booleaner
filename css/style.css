@@ -8,8 +8,41 @@
 
 }
 
+/* Google font */
+
 .roboto-thin {
     font-family: "Roboto", sans-serif;
     font-weight: 100;
     font-style: normal;
+}
+
+/* background and text colors */
+
+.white-text {
+
+    color: #FFFFFF;
+}
+
+.blue-text {
+
+    color: #DEF2FB;
+}
+
+.grey-text {
+    color: #DFDFDF;
+}
+
+.highlighted {
+
+    background-color: #FFFF00;
+}
+
+.thead-color {
+
+    background-color: #20A9E5;
+}
+
+
+.tbody-color {
+    background-color: #B1E5F2;
 }
